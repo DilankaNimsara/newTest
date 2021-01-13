@@ -12,20 +12,6 @@
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
-  <pluginRepositories>
-    <pluginRepository>
-      <id>apache.snapshots</id>
-      <name>Apache Snapshots</name>
-      <url>http://repository.apache.org/content/groups/snapshots-group/</url>
-      <releases>
-        <enabled>true</enabled>
-      </releases>
-      <snapshots>
-        <enabled>true</enabled>
-      </snapshots>
-    </pluginRepository>
-  </pluginRepositories>
-  
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
